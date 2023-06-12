@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#Project link : eat-n-split-sharan.netlify.app
+#Project link :  https://eat-n-split-sharan.netlify.app/
 
 #project demo 
 
