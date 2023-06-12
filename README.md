@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+#Project link : eat-n-split-sharan.netlify.app
+
+#project demo 
+
+![eat-n-split](https://github.com/Sharanupatil8/eat-n-split-bill/assets/93566630/11b6622d-78af-497c-a14e-99103d27694c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
